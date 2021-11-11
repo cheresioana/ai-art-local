@@ -2,8 +2,7 @@
 
 https://www.youtube.com/watch?v=RgU3i4qAVaI&t=5s
 
-[embed]https://github.com/cheresioana/ai-art-local/blob/main/ArtPaper%20(4).pdf[/embed]
-
+https://github.com/cheresioana/ai-art-local/blob/main/ArtPaper%20(4).pdf
 # ai art local
 
 
